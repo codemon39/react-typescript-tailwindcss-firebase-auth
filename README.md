@@ -16,7 +16,7 @@ git clone https://github.com/astrohunter62/react-typescript-tailwindcss-firebase
 ```
 - Navigate to the directory
 ```
-cd react-vite-tailwind-firebase-auth-template
+cd react-typescript-tailwindcss-firebase-auth
 ```
 - Install the dependencies with
 ```
