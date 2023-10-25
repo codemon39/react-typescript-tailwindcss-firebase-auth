@@ -1,9 +1,8 @@
 {
-  "name": "client",
+  "name": "astro",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://igorbayerl.github.io/chess-two",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
